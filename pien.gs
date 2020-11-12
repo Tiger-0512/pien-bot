@@ -1,4 +1,4 @@
-var CHANNEL_ACCESS_TOKEN = 'CP0FHWE/eHzbfJl4U1A5CbjQN7blT0FNXONfuk6mPB21EiMJGFYlCZeka9aXIIzD2NrdWQg+D9CzCBgBvSLGO8LNsF+Bu1RgdblZDkR97dr+ZnhK5cGsAtzKVeiAEuxIS35tQVLx5Ea7zOHz49/8YwdB04t89/1O/w1cDnyilFU='; // Channel_access_tokenを登録
+var CHANNEL_ACCESS_TOKEN = 'CHANNEL_ACCESS_TOKEN'; // Channel_access_tokenを登録
 var line_endpoint = 'https://api.line.me/v2/bot/message/reply';
 
 let ans = ["ぴえん", "ぱおん"]
